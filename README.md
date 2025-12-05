@@ -14,7 +14,7 @@ a) K-Means clustering from scratch
 
 b) Hierarchical clustering (not from scratch)
 
--https://colab.research.google.com/drive/1q1DYdghQNd7_1I5ThmIWrGDfYrseRo-1?usp=sharing
+- https://colab.research.google.com/drive/1q1DYdghQNd7_1I5ThmIWrGDfYrseRo-1?usp=sharing
 
 c) Gaussian mixture models clustering (not from scratch)
 
