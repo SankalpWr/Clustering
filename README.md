@@ -18,11 +18,7 @@ b) Hierarchical clustering (not from scratch)
 
 c) Gaussian mixture models clustering (not from scratch)
 
- 
-
-hint : https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynbLinks to an external site.
-
- 
+- https://colab.research.google.com/drive/1Q7s2uEUus9X2zGVBju1Hao9ZFu83Mp6Y?usp=sharing
 
 d) DB Scan clustering (not from scratch) using pycaret library 
 
