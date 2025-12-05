@@ -10,15 +10,7 @@ submit one colab per assignment - provide complete colab with proper documentati
 
 a) K-Means clustering from scratch
 
-hint : https://colab.sandbox.google.com/github/SANTOSHMAHER/Machine-Learning-Algorithams/blob/master/K_Means_algorithm_using_Python_from_scratch_.ipynbLinks to an external site.
-
-or https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynbLinks to an external site.
-
-another interesting supervised kmeans colab if people like to do : https://developers.google.com/machine-learning/clustering/programming-exerciseLinks to an external site.
-
-https://colab.sandbox.google.com/github/google/eng-edu/blob/main/ml/clustering/clustering-supervised-similarity.ipynb?utm_source=ss-clustering&utm_campaign=colab-external&utm_medium=referral&utm_content=clustering-supervised-similarity#scrollTo=eExms-TP8Hn6Links to an external site.
-
- 
+- https://colab.research.google.com/drive/1kx1hmhtP49LkIqDa3aSJBoSHOutlflpp?usp=sharing
 
 b) Hierarchical clustering (not from scratch)
 
