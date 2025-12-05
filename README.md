@@ -1,11 +1,4 @@
 # Clustering
-
-# Implement various clustering algorithms in colabs - use generously gpt4 latest.
-
- 
-
-submit one colab per assignment - provide complete colab with proper documentation etc.,. 
-
  
 
 a) K-Means clustering from scratch
