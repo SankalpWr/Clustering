@@ -22,85 +22,27 @@ c) Gaussian mixture models clustering (not from scratch)
 
 d) DB Scan clustering (not from scratch) using pycaret library 
 
-Hint: https://pycaret.org/create-model/ Links to an external site. 
-
-https://towardsdatascience.com/clustering-made-easy-with-pycaret-656316c0b080Links to an external site.
-
-http://www.pycaret.org/tutorials/html/CLU101.htmlLinks to an external site.
+- https://colab.research.google.com/drive/13wxrsu3poO1j-fMAIm9ISBCeM9TA9Rt1?usp=sharing
 
 e) Demonstrate anomaly detection using pyOD using any usecase
 
-eg: univariate or multivariate 
-
+- https://colab.research.google.com/drive/19UqYGdAaVeiJU6YoA8bOcQLr3sSaH2R8?usp=sharing
  
 
-Hint: https://neptune.ai/blog/anomaly-detection-in-time-seriesLinks to an external site.
-
-https://github.com/ritvikmath/Time-Series-Analysis/blob/master/Anomaly%20Detection.ipynbLinks to an external site.
-
- 
 
 f) Illustrate clustering of timeseries data using pretrained models 
 
-Hint : 
-
-https://github.com/V-MalM/Stock-Clustering-and-Prediction
-
-https://github.com/qianlima-lab/time-series-ptms
-
-https://github.com/effa/time-series-clustering
-
-https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
-Hint; https://github.com/cure-lab/Awesome-time-series#time-series-clusteringLinks to an external site.
-
-https://github.com/qingsongedu/awesome-AI-for-time-series-papers
-
+- https://colab.research.google.com/drive/1A-9AAwa5vBC3LfB1q0ieArCq_aAzgtbO?usp=sharing
  
 
 g) Write a colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings).
 
-Hint;
+- https://colab.research.google.com/drive/1ZewAG_W69wVO__b-hbtmCQqx_zeesNwf?usp=sharing
 
-https://github.com/simonw/llm-clusterLinks to an external site.
+h) Write a colab for clustering with images using ImageBind LLM embeddings 
 
-https://simonwillison.net/2023/Sep/4/llm-embeddings/#llm-cluster
-
- 
-
-https://github.com/UKPLab/sentence-transformers/tree/master/examples/applications/clustering
-
-https://dylancastillo.co/nlp-snippets-cluster-documents-using-word2vec/Links to an external site. 
-
-https://github.com/Ruchi2507/Text-ClusteringLinks to an external site.
-
- 
-
-h) Write a colab for clustering with images using imagebind llm embeddings 
-
-Hint: https://medium.com/@tatsuromurata317/image-bind-metaai-on-google-colab-free-843f30a4977c
-
-https://towardsdatascience.com/introduction-to-embedding-clustering-and-similarity-11dd80b00061Links to an external site.
-
-https://cobusgreyling.medium.com/using-openai-embeddings-for-search-clustering-83840e971e97Links to an external site.
+- https://colab.research.google.com/drive/1tJhCwLsH0UNZv-B_AEpCBBXwOmbpgb5S?usp=sharing
 
 i) Write a colab for audio embeddings using imagebind llms
 
-Hint:
-
-https://towardsdatascience.com/k-means-clustering-and-pca-to-categorize-music-by-similar-audio-features-df09c93e8b64
-
-https://mct-master.github.io/machine-learning/2023/04/25/ninojak-clustering-audio.htmlLinks to an external site.
-
-https://ridakhan5.medium.com/audio-clustering-with-deep-learning-a7991d605fa5Links to an external site.
-
-https://www.kaggle.com/code/humblediscipulus/audio-feature-extraction-and-clustering
-
- 
-
-Please ensure you provide proper measures of clustering quality as well. See attached colabs for examples.
-
-use colabs as inspuiration.
-
- 
-
-For data sets - refer to https://paperswithcode.com/datasets
+- https://colab.research.google.com/drive/1QLkBojJwZtVsTEhe8eaVjxCDkBA4oaMO?usp=sharing
