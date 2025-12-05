@@ -14,7 +14,7 @@ a) K-Means clustering from scratch
 
 b) Hierarchical clustering (not from scratch)
 
-hint : https://colab.sandbox.google.com/github/saskeli/data-analysis-with-python-summer-2019/blob/master/clustering.ipynbLinks to an external site.
+-https://colab.research.google.com/drive/1q1DYdghQNd7_1I5ThmIWrGDfYrseRo-1?usp=sharing
 
 c) Gaussian mixture models clustering (not from scratch)
 
